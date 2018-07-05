@@ -1,0 +1,4 @@
+app_id:1058244
+app_key:8f2588996cbb0f6397e8132d00f0e5c22a045c458bd2c6cb04f4b2f2650a938a
+device:/dev/ttyUSB0
+baudrate:230400
